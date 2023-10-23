@@ -17,3 +17,5 @@ rootProject.name = "My Application_231020_test1"
 include(":app")
 include(":myapplication_test2")
 include(":myapplication_test3")
+include(":myapplication_test4")
+include(":myapplication_practice")
